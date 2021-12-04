@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 let mul = 1;
 let quot = 0;
 let rem = 0;
