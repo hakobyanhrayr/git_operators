@@ -17,11 +17,9 @@ if(num !== 0){
         }
     }
 }else {
-    console.log("can note");
 }
-console.log(mul);
-console.log(sum);
-
+// console.log(mul);
+// console.log(sum);
 
 if (mul % sum !== 0) {
     quot = mul % sum;
